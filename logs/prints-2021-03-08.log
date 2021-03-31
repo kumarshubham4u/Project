@@ -1,0 +1,53 @@
+14:45:04.170 [TestNG-test=Test-1] INFO  resources.baseTest - Hitting the url
+14:45:04.226 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login link
+14:45:08.137 [TestNG-test=Test-2] INFO  resources.baseTest - Hitting the url
+15:30:31.938 [main] INFO  resources.baseTest - Driver is initialised
+15:30:36.965 [main] INFO  resources.baseTest - Hitting the url
+15:30:36.986 [main] DEBUG resources.baseTest - Clicking on Login link
+15:51:24.735 [TestNG-test=Test-2] INFO  resources.baseTest - Driver is initialised
+15:51:25.163 [TestNG-test=Test-1] INFO  resources.baseTest - Driver is initialised
+15:51:30.508 [TestNG-test=Test-2] INFO  resources.baseTest - Hitting the url
+15:51:31.119 [TestNG-test=Test-1] INFO  resources.baseTest - Hitting the url
+15:51:31.123 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login link
+15:55:32.461 [TestNG-test=Test-2] INFO  resources.baseTest - Driver is initialised
+15:55:32.696 [TestNG-test=Test-1] INFO  resources.baseTest - Driver is initialised
+15:55:35.946 [TestNG-test=Test-2] INFO  resources.baseTest - Hitting the url
+15:55:36.086 [TestNG-test=Test-1] INFO  resources.baseTest - Hitting the url
+15:55:36.091 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login link
+15:55:59.255 [TestNG-test=Test-1] INFO  resources.baseTest - Driver is initialised
+15:56:02.638 [TestNG-test=Test-1] INFO  resources.baseTest - Hitting the url
+15:56:02.639 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login link
+15:56:51.634 [TestNG-test=Test-1] INFO  resources.baseTest - Driver is initialised
+15:56:52.362 [TestNG-test=Test-2] INFO  resources.baseTest - Driver is initialised
+15:56:55.584 [TestNG-test=Test-1] INFO  resources.baseTest - Hitting the url
+15:56:55.660 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login link
+15:56:56.443 [TestNG-test=Test-2] INFO  resources.baseTest - Hitting the url
+16:47:23.495 [main] INFO  resources.baseTest - Driver is initialised
+16:47:26.571 [main] INFO  resources.baseTest - Hitting the url
+16:47:26.586 [main] DEBUG resources.baseTest - Clicking on Login link
+16:48:10.384 [main] INFO  resources.baseTest - Driver is initialised
+16:48:12.269 [main] INFO  resources.baseTest - Hitting the url
+16:48:12.291 [main] DEBUG resources.baseTest - Clicking on Login link
+17:04:08.044 [main] INFO  resources.baseTest - Driver is initialised
+17:04:14.231 [main] INFO  resources.baseTest - Hitting the url
+17:04:14.256 [main] DEBUG resources.baseTest - Clicking on Login link
+17:38:39.034 [TestNG-test=Test-1] INFO  resources.baseTest - Driver is initialised
+17:38:39.236 [TestNG-test=Test-2] INFO  resources.baseTest - Driver is initialised
+17:38:40.059 [TestNG-test=Test-1] INFO  resources.baseTest - Hitting the url
+17:38:40.102 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login link
+17:38:42.491 [TestNG-test=Test-2] INFO  resources.baseTest - Hitting the url
+17:39:05.273 [TestNG-test=Test-2] INFO  resources.baseTest - Driver is initialised
+17:39:05.428 [TestNG-test=Test-1] INFO  resources.baseTest - Driver is initialised
+17:39:20.638 [TestNG-test=Test-2] INFO  resources.baseTest - Hitting the url
+17:39:20.884 [TestNG-test=Test-1] INFO  resources.baseTest - Hitting the url
+17:39:20.887 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login link
+17:39:33.538 [TestNG-test=Test-1] INFO  resources.baseTest - Driver is initialised
+17:39:35.892 [TestNG-test=Test-1] INFO  resources.baseTest - Hitting the url
+17:39:35.893 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login link
+17:40:51.463 [TestNG-test=Test-1] INFO  resources.baseTest - Driver is initialised
+17:40:51.463 [TestNG-test=Test-2] INFO  resources.baseTest - Driver is initialised
+17:40:53.986 [TestNG-test=Test-1] INFO  resources.baseTest - Hitting the url
+17:40:54.016 [TestNG-test=Test-1] DEBUG resources.baseTest - Clicking on Login link
+17:40:55.473 [TestNG-test=Test-2] INFO  resources.baseTest - Hitting the url
+17:41:07.266 [TestNG-test=Test-1] INFO  resources.baseTest - Driver is initialised
+17:41:11.531 [TestNG-test=Test-1] INFO  resources.baseTest - Hitting the url

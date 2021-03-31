@@ -1,0 +1,55 @@
+12:37:20.886 [main] INFO  resources.baseTest - Forgot Password button is clicked
+12:37:20.903 [main] DEBUG resources.baseTest - Sending keys in email field
+12:37:21.036 [main] INFO  resources.baseTest - Email id is provided
+12:37:21.036 [main] DEBUG resources.baseTest - Clicking on Send Me Instruction button
+12:37:21.233 [main] INFO  resources.baseTest - Send Me Instruction button is clicked
+12:37:39.593 [main] INFO  resources.baseTest - Navigation Bar validated
+13:07:28.999 [main] DEBUG resources.baseTest - Clicking on Login link
+13:07:53.785 [main] DEBUG resources.baseTest - Clicking on Login link
+13:08:13.186 [main] INFO  resources.baseTest - Login Link is clicked
+13:08:13.186 [main] DEBUG resources.baseTest - Sending keys in email field
+13:08:13.345 [main] INFO  resources.baseTest - Email id is provided
+13:08:13.345 [main] DEBUG resources.baseTest - Sending keys in password field
+13:08:13.468 [main] INFO  resources.baseTest - password is provided
+13:08:13.469 [main] DEBUG resources.baseTest - Clicking on Login button
+13:08:17.224 [main] INFO  resources.baseTest - Login button is clicked
+13:08:17.224 [main] DEBUG resources.baseTest - Clicking on Forgot Password button
+13:08:20.546 [main] INFO  resources.baseTest - Forgot Password button is clicked
+13:08:20.546 [main] DEBUG resources.baseTest - Sending keys in email field
+13:08:20.654 [main] INFO  resources.baseTest - Email id is provided
+13:08:20.655 [main] DEBUG resources.baseTest - Clicking on Send Me Instruction button
+13:08:20.761 [main] INFO  resources.baseTest - Send Me Instruction button is clicked
+13:08:46.706 [main] DEBUG resources.baseTest - Clicking on Login link
+13:08:49.145 [main] INFO  resources.baseTest - Login Link is clicked
+13:08:49.145 [main] DEBUG resources.baseTest - Sending keys in email field
+13:08:49.664 [main] INFO  resources.baseTest - Email id is provided
+13:08:49.664 [main] DEBUG resources.baseTest - Sending keys in password field
+13:08:50.079 [main] INFO  resources.baseTest - password is provided
+13:08:50.080 [main] DEBUG resources.baseTest - Clicking on Login button
+13:08:50.905 [main] INFO  resources.baseTest - Login button is clicked
+13:08:50.906 [main] DEBUG resources.baseTest - Clicking on Forgot Password button
+13:08:51.838 [main] INFO  resources.baseTest - Forgot Password button is clicked
+13:08:51.840 [main] DEBUG resources.baseTest - Sending keys in email field
+13:08:52.340 [main] INFO  resources.baseTest - Email id is provided
+13:08:52.341 [main] DEBUG resources.baseTest - Clicking on Send Me Instruction button
+13:08:52.800 [main] INFO  resources.baseTest - Send Me Instruction button is clicked
+13:09:11.424 [main] INFO  resources.baseTest - Navigation Bar validated
+13:10:08.718 [main] DEBUG resources.baseTest - Clicking on Login link
+13:10:10.511 [main] INFO  resources.baseTest - Login Link is clicked
+13:10:10.512 [main] DEBUG resources.baseTest - Sending keys in email field
+13:10:10.818 [main] INFO  resources.baseTest - Email id is provided
+13:10:10.818 [main] DEBUG resources.baseTest - Sending keys in password field
+13:10:10.965 [main] INFO  resources.baseTest - password is provided
+13:10:10.965 [main] DEBUG resources.baseTest - Clicking on Login button
+13:10:11.344 [main] INFO  resources.baseTest - Login button is clicked
+13:10:11.345 [main] DEBUG resources.baseTest - Clicking on Forgot Password button
+13:10:11.869 [main] INFO  resources.baseTest - Forgot Password button is clicked
+13:10:11.869 [main] DEBUG resources.baseTest - Sending keys in email field
+13:10:12.009 [main] INFO  resources.baseTest - Email id is provided
+13:10:12.009 [main] DEBUG resources.baseTest - Clicking on Send Me Instruction button
+13:10:12.120 [main] INFO  resources.baseTest - Send Me Instruction button is clicked
+13:10:22.228 [main] DEBUG resources.baseTest - Clicking on Login link
+13:10:23.824 [main] INFO  resources.baseTest - Login Link is clicked
+13:10:23.825 [main] DEBUG resources.baseTest - Sending keys in email field
+13:10:24.205 [main] INFO  resources.baseTest - Email id is provided
+13:10:24.205 [main] DEBUG resources.baseTest - Sending keys in password field

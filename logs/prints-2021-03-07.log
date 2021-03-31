@@ -1,0 +1,58 @@
+20:17:05.099 [main] DEBUG resources.baseTest - Sending keys in password field
+20:17:05.337 [main] INFO  resources.baseTest - password is provided
+20:17:05.337 [main] DEBUG resources.baseTest - Clicking on Login button
+20:17:06.133 [main] INFO  resources.baseTest - Login button is clicked
+20:17:10.223 [main] INFO  resources.baseTest - Driver is initialised
+20:17:16.604 [main] INFO  resources.baseTest - Hitting the url
+20:17:16.606 [main] DEBUG resources.baseTest - Clicking on Login link
+20:17:18.118 [main] INFO  resources.baseTest - Login Link is clicked
+20:17:18.119 [main] DEBUG resources.baseTest - Sending keys in email field
+20:17:18.334 [main] INFO  resources.baseTest - Email id is provided
+20:17:18.334 [main] DEBUG resources.baseTest - Sending keys in password field
+20:17:18.580 [main] INFO  resources.baseTest - password is provided
+20:17:18.581 [main] DEBUG resources.baseTest - Clicking on Login button
+20:17:19.046 [main] INFO  resources.baseTest - Login button is clicked
+20:17:22.955 [main] INFO  resources.baseTest - Driver is initialised
+20:17:29.432 [main] INFO  resources.baseTest - Hitting the url
+20:17:29.564 [main] INFO  resources.baseTest - Navigation Bar validated
+21:24:28.511 [main] INFO  resources.baseTest - Driver is initialised
+21:24:33.658 [main] INFO  resources.baseTest - Hitting the url
+21:24:33.696 [main] DEBUG resources.baseTest - Clicking on Login link
+21:24:35.004 [main] INFO  resources.baseTest - Login Link is clicked
+21:24:35.004 [main] DEBUG resources.baseTest - Sending keys in email field
+21:24:35.291 [main] INFO  resources.baseTest - Email id is provided
+21:24:35.292 [main] DEBUG resources.baseTest - Sending keys in password field
+21:24:35.459 [main] INFO  resources.baseTest - password is provided
+21:24:35.459 [main] DEBUG resources.baseTest - Clicking on Login button
+21:24:36.003 [main] INFO  resources.baseTest - Login button is clicked
+21:24:39.177 [main] INFO  resources.baseTest - Driver is initialised
+21:24:46.758 [main] INFO  resources.baseTest - Hitting the url
+21:24:46.759 [main] DEBUG resources.baseTest - Clicking on Login link
+21:24:48.787 [main] INFO  resources.baseTest - Login Link is clicked
+21:24:48.788 [main] DEBUG resources.baseTest - Sending keys in email field
+21:24:49.052 [main] INFO  resources.baseTest - Email id is provided
+21:24:49.052 [main] DEBUG resources.baseTest - Sending keys in password field
+21:24:49.281 [main] INFO  resources.baseTest - password is provided
+21:24:49.282 [main] DEBUG resources.baseTest - Clicking on Login button
+21:24:49.801 [main] INFO  resources.baseTest - Login button is clicked
+21:24:54.046 [main] INFO  resources.baseTest - Driver is initialised
+21:24:58.195 [main] INFO  resources.baseTest - Hitting the url
+21:24:58.393 [main] INFO  resources.baseTest - Navigation Bar validated
+21:26:10.300 [main] INFO  resources.baseTest - Driver is initialised
+21:26:14.647 [main] INFO  resources.baseTest - Hitting the url
+21:26:14.677 [main] DEBUG resources.baseTest - Clicking on Login link
+21:26:16.700 [main] INFO  resources.baseTest - Login Link is clicked
+21:26:16.700 [main] DEBUG resources.baseTest - Sending keys in email field
+21:26:16.956 [main] INFO  resources.baseTest - Email id is provided
+21:26:16.956 [main] DEBUG resources.baseTest - Sending keys in password field
+21:26:17.114 [main] INFO  resources.baseTest - password is provided
+21:26:17.115 [main] DEBUG resources.baseTest - Clicking on Login button
+21:26:17.519 [main] INFO  resources.baseTest - Login button is clicked
+21:26:21.242 [main] INFO  resources.baseTest - Driver is initialised
+21:26:29.276 [main] INFO  resources.baseTest - Hitting the url
+21:26:29.278 [main] DEBUG resources.baseTest - Clicking on Login link
+21:26:30.614 [main] INFO  resources.baseTest - Login Link is clicked
+21:26:30.614 [main] DEBUG resources.baseTest - Sending keys in email field
+21:26:30.958 [main] INFO  resources.baseTest - Email id is provided
+21:26:30.958 [main] DEBUG resources.baseTest - Sending keys in password field
+21:26:31.134 [main] INFO  resources.baseTest - password is provided
